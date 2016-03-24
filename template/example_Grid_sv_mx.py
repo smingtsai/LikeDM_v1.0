@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import sys,os
 from numpy import *
-sys.path.append('./pyCode/')
+sys.path.append('./src/')
 import LikeDM
 
 try:
